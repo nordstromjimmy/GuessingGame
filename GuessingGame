@@ -28,8 +28,7 @@ public class GuessingGame {
 			else if (guess > numberToGuess) {
 				System.out.println("Your guess is to high");
 			}
-
-
+			
 		}
 		
 		System.out.println("You won!");
